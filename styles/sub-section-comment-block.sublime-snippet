@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/* ${1:Sub-section comment}
+   ========================================================================== */
+
+${2:.selector} {
+	${3}
+}
+]]></content>
+	<tabTrigger>//</tabTrigger>
+	<scope>source.css</scope>
+</snippet>
